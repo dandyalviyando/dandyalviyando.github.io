@@ -11522,7 +11522,7 @@ header.masthead {
   color: #fff;
   background:url(../assets/bgfix.jpg);
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-position: center center;
   background-size: cover;
 }
